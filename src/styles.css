@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mw {
+  max-width: 1440px;
+}
+
+.hello {
+    background-image: url(/public/img/sline1.svg);
+    background-position: bottom;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    box-shadow: thistle ;
+  }
+.sec3 {
+    background-image: url(/public/img/sline2.png);
+    background-position: bottom;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    height: 917px;
+}
+.sec4 {
+    background-image: url(/public/img/sline3.png);
+    background-position: center;
+    background-size: cover;
+}
+.sec5 {
+    background-image: url(/public/img/sline4.svg);
+    background-position: top;
+    /* background-size: cover; */
+}
+.sec6 {
+    background-image: url(/public/img/sline5.svg);
+    background-position: center;
+    background-size: cover;
+}
+.sec8 {
+    background-image: url(/public/img/sline6.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card {
+    max-width: 269px;
+}
+.card1 {
+    height: 378px;
+    max-width: 269px;
+}
+.card-bg {
+    background-image: url(/public/img/cardbg.svg);
+}
+.ms {
+  max-width: 600px;
+}
+.mx {
+  max-width: 579px;
+}
+.mh {
+  height: 937px;
+  max-height: 937px;
+}
+
+.mm {
+  max-width: 954px;
+}
+.ss {
+  max-width: 446px;
+}
+.cc {
+  max-width: 45;
+  max-height: 45;
+}
+.wi {
+  max-width: 1065px;
+}
+.s1 {
+  max-height: 784px;
+}
